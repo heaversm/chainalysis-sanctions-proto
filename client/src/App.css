@@ -1,0 +1,32 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+
+.App {
+  padding: 10px;
+}
+
+.analyze-el {
+  margin-top: 10px;
+}
+
+.analyze-el:first-child {
+  margin-top: 0;
+}
+
+.sanction-item {
+  border-top: 1px solid #cecece;
+  border-bottom: 1px solid #cecece;
+  padding: 10px 0;
+}
+
